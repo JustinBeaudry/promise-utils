@@ -1,0 +1,20 @@
+{
+  "name": "promise-utils",
+  "version": "1.0.0",
+  "description": "utility library for working with Promises in the browser and in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinBeaudry/promise-utils.git"
+  },
+  "keywords": [],
+  "author": "Justin Beaudry <beaudry.justin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinBeaudry/promise-utils/issues"
+  },
+  "homepage": "https://github.com/JustinBeaudry/promise-utils#readme"
+}
